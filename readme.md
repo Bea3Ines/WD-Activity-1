@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/Bea3Ines/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
@@ -20,7 +20,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=Bea3Ines/WD-Activity-1)
 
 ---
 
@@ -54,10 +54,10 @@
 ---
 
 ## Overview
-
+To learn the basics keys of html and css
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+<!--Description of the project in details.
 
 Guiding Question:
 - What is the project
@@ -68,9 +68,9 @@ Guiding Question:
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Learn
+- Practice
+- Repository
 
 ### Technology
 <!-- TODO: List of Technology Used -->
